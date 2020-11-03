@@ -27,7 +27,7 @@ Apart from coding. I also maintain a blog - you can find my articles on my websi
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: assets/linkedin-3-16.png "LinkedIn icon without padding"
+[2.2]: linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- Links to social media accounts -->
 
