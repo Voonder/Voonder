@@ -1,36 +1,64 @@
-# Hello folks 👋
+# Hi there, I'm Julien (aka Voonder) 👋
 
-My name is Julien NORMAND and I'm a Android developer. I'm from France, living near Nantes and currently working at Orange Business Services SA. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+## I'm a Full Stack Developer, Creator, and Lifelong Learner!
 
-<!--
-## 📝 Blog & Writing
+- 🏢 I’m currently working at Orange SA.
+- 🏡 I’m currently living in 🇫🇷 Nantes, France
+- ⚡ Fun fact: Space lover 🚀
 
-Apart from coding. I also maintain a blog - you can find my articles on my website at [My Website][3].
--->
+### Connect with me:
 
-## 🔧 Technologies & Tools
+[![Linkedin: juliennormand](https://img.shields.io/badge/-juliennormand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliennormand/)](https://www.linkedin.com/in/juliennormand/)
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white&labelColor=607d8b&color=f44336)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&labelColor=607d8b&color=f44336)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&labelColor=607d8b&color=f44336)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat-square&logo=Android-Studio&logoColor=white&labelColor=607d8b&color=f44336)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat-square&logo=Kotlin&logoColor=white&labelColor=607d8b&color=f44336)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&labelColor=607d8b&color=f44336)
-![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=607d8b&color=f44336)
-![](https://img.shields.io/badge/Tools-Azure_Dev_Ops-informational?style=flat-square&logo=Azure-DevOps&logoColor=white&labelColor=607d8b&color=f44336)
+### Languages and Tools:
 
-## 📈 GitHub Stats
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voonder&title_color=f44336&icon_color=f44336)
-![Voonder's github stats](https://github-readme-stats.vercel.app/api?username=voonder&show_icons=true&count_private=true&include_all_commits=true&title_color=f44336&icon_color=f44336)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 
-<!-- Icons -->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JAVA](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 
-[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2.2]: linkedin-3-16.png "LinkedIn icon without padding"
+![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-black?style=flat-square&logo=intellij-idea)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
 
-<!-- Links to social media accounts -->
+<details>
 
-[1]: https://twitter.com/jnormand92
-[2]: https://www.linkedin.com/in/juliennormand/
-[3]: https://
+<summary>:zap: GitHub Stats</summary>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api?username=Voonder&show_icons=true&theme=github_dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api?username=Voonder&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-eta-azure-85.vercel.app/api?username=Voonder&show_icons=true&rank_icon=github" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&theme=github_dark&layout=compact&exclude_repo=github-readme-stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&layout=compact&exclude_repo=github-readme-stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&layout=compact&exclude_repo=github-readme-stats" />
+</picture>
+
+</details>
