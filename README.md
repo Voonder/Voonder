@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JAVA](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=java)
+![JAVA](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=oracle)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-black?style=flat-square&logo=intellij-idea)
@@ -51,14 +51,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&theme=github_dark&layout=compact&exclude_repo=github-readme-stats"
+    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&theme=github_dark&layout=compact&exclude_repo=github-readme-stats,eXia.CESI-Projects"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&layout=compact&exclude_repo=github-readme-stats"
+    srcset="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&layout=compact&exclude_repo=github-readme-stats,eXia.CESI-Projects"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&layout=compact&exclude_repo=github-readme-stats" />
+  <img src="https://github-readme-stats-eta-azure-85.vercel.app/api/top-langs/?username=Voonder&layout=compact&exclude_repo=github-readme-stats,eXia.CESI-Projects" />
 </picture>
 
 </details>
